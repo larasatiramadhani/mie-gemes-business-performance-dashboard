@@ -41,5 +41,5 @@ As a small F&B business with 3 product lines and multiple sales channels (walk-i
 4. **Online channel penetration remains low.** Out of 110 transactions, only 17 (~15.5%) came from Shopee + Gojek combined — indicating most sales still depend on walk-in customers, with room to grow delivery channel adoption.
 
 ## 📁 Files
-- `images/` — dashboard screenshots
+- `mie-gemes-dashboard-overview.png`
 - (Live dashboard not publicly linked due to ongoing operational data updates — screenshots reflect a point-in-time snapshot)
